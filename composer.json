@@ -1,0 +1,16 @@
+{
+  "name": "password/strong-password",
+  "description": "Generate strong password",
+  "type": "library",
+  "require": {
+    "php": ">=5.3.0"
+  },
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Mohsen Ebrahem",
+      "email": "itmohseneb@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev"
+}
